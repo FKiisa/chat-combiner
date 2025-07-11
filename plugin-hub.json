@@ -1,0 +1,9 @@
+{
+  "internalName": "chatcombiner",
+  "displayName": "Chat Combiner",
+  "description": "Combines repeated identical game messages into a single message with counted game messages",
+  "tags": ["chat", "clean", "repetition", "game messages"],
+  "pluginPath": "build/libs/chatcombiner.jar",
+  "provider": "FKiisa",
+  "support": "https://github.com/FKiisa/chatcombiner"
+}
